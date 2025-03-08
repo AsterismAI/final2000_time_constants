@@ -25,3 +25,7 @@ code.  I reformatted and rewrote sections of it, but the logic is his!
 | 46-52 | D7.0 | Polar motion X (arc-sec)  |
 | 56-62 | D7.0 | Polar motion Y (arc-sec)  |
 | 79-80 | A2 |Anything EXCEPT "TP" or "ZP" |
+
+### File
+
+https://maia.usno.navy.mil/ser7/finals2000A.all
