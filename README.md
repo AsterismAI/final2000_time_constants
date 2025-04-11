@@ -29,3 +29,5 @@ code.  I reformatted and rewrote sections of it, but the logic is his!
 ### File
 
 https://maia.usno.navy.mil/ser7/finals2000A.all
+
+curl -O https://maia.usno.navy.mil/ser7/finals2000A.all
