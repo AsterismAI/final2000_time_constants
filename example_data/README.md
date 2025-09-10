@@ -7,6 +7,9 @@ Files in this directory:
     full_time_constants.dat : an example AstroStandards timing file
 
 URLS:
+    Main URL for finals file:
+        https://datacenter.iers.org/data/9/finals2000A.all
+
     https://maia.usno.navy.mil/
     https://maia.usno.navy.mil/ser7/finals2000A.all
     https://maia.usno.navy.mil/ser7/tai-utc.dat
